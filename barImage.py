@@ -4,7 +4,7 @@ import numpy as np
 # --- Data ---
 S = np.array([0.798, 0.023])   # First-order indices
 ST = np.array([0.978, 0.204])  # Total-order indices
-labels = ['Angle', 'Indent']
+labels = ['Angle of attack', 'additional indentation']
 
 # --- Plotting Setup ---
 x = np.arange(len(labels))

@@ -1,0 +1,12 @@
+*.rpy
+*.rpy.*
+*.docm
+*.png
+simulations/*
+simulations-one
+
+.idea/*
+
+v1_lhs_samples.csv
+draft_lhs_samples.csv
+target.csv
